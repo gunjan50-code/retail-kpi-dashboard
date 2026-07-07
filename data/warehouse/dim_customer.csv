@@ -1,0 +1,122 @@
+customer_key,customer_id,Country,Segment
+1,C0001,India,Occasional
+2,C0002,France,Occasional
+3,C0003,France,Occasional
+4,C0004,Germany,Occasional
+5,C0005,Germany,High Value
+6,C0006,United States,Regular
+7,C0007,India,Occasional
+8,C0008,France,High Value
+9,C0009,United Kingdom,Occasional
+10,C0010,India,Occasional
+11,C0011,Germany,Regular
+12,C0012,United States,Occasional
+13,C0013,France,High Value
+14,C0014,France,Regular
+15,C0015,France,Regular
+16,C0016,France,Regular
+17,C0017,Germany,Occasional
+18,C0018,India,Regular
+19,C0019,United States,Regular
+20,C0020,Germany,Occasional
+21,C0021,Germany,High Value
+22,C0022,United Kingdom,Occasional
+23,C0023,India,Occasional
+24,C0024,United States,Occasional
+25,C0025,France,High Value
+26,C0026,France,High Value
+27,C0027,Germany,High Value
+28,C0028,United States,High Value
+29,C0029,Germany,Regular
+30,C0030,Germany,Occasional
+31,C0031,Germany,Regular
+32,C0032,United Kingdom,Occasional
+33,C0033,India,High Value
+34,C0034,Germany,Occasional
+35,C0035,United States,Regular
+36,C0036,India,High Value
+37,C0037,United States,High Value
+38,C0038,United States,Occasional
+39,C0039,United Kingdom,Occasional
+40,C0040,France,Occasional
+41,C0041,India,Regular
+42,C0042,France,Occasional
+43,C0043,France,Regular
+44,C0044,United Kingdom,High Value
+45,C0045,India,Regular
+46,C0046,United States,Regular
+47,C0047,Germany,Regular
+48,C0048,United States,High Value
+49,C0049,France,Regular
+50,C0050,France,Regular
+51,C0051,France,Regular
+52,C0052,India,High Value
+53,C0053,United Kingdom,Regular
+54,C0054,Germany,Occasional
+55,C0055,Germany,Regular
+56,C0056,India,Occasional
+57,C0057,Germany,Regular
+58,C0058,India,Occasional
+59,C0059,France,Occasional
+60,C0060,France,Occasional
+61,C0061,United States,Regular
+62,C0062,France,Occasional
+63,C0063,United Kingdom,High Value
+64,C0064,United States,High Value
+65,C0065,Germany,Regular
+66,C0066,United Kingdom,Occasional
+67,C0067,United States,High Value
+68,C0068,United Kingdom,High Value
+69,C0069,India,Occasional
+70,C0070,Germany,Regular
+71,C0071,France,Occasional
+72,C0072,India,Occasional
+73,C0073,Germany,Regular
+74,C0074,India,Occasional
+75,C0075,France,Occasional
+76,C0076,Germany,Occasional
+77,C0077,United Kingdom,Occasional
+78,C0078,United Kingdom,High Value
+79,C0079,Germany,Regular
+80,C0080,France,Regular
+81,C0081,United States,Occasional
+82,C0082,Germany,High Value
+83,C0083,India,Occasional
+84,C0084,United States,Occasional
+85,C0085,France,Occasional
+86,C0086,France,High Value
+87,C0087,India,Regular
+88,C0088,United Kingdom,Occasional
+89,C0089,France,Regular
+90,C0090,United States,High Value
+91,C0091,Germany,High Value
+92,C0092,United States,High Value
+93,C0093,United States,Occasional
+94,C0094,United Kingdom,Regular
+95,C0095,United States,Occasional
+96,C0096,United Kingdom,Regular
+97,C0097,United Kingdom,Regular
+98,C0098,France,Occasional
+99,C0099,France,Occasional
+100,C0100,India,Occasional
+101,C0101,United States,Regular
+102,C0102,India,Occasional
+103,C0103,United States,Occasional
+104,C0104,India,Regular
+105,C0105,France,High Value
+106,C0106,France,Regular
+107,C0107,France,Regular
+108,C0108,France,Regular
+109,C0109,Germany,Regular
+110,C0110,France,Regular
+111,C0111,United Kingdom,High Value
+112,C0112,France,High Value
+113,C0113,Germany,Occasional
+114,C0114,Germany,Occasional
+115,C0115,Germany,Regular
+116,C0116,Germany,High Value
+117,C0117,India,Regular
+118,C0118,India,High Value
+119,C0119,United Kingdom,Regular
+120,C0120,India,High Value
+121,GUEST,United States,Guest

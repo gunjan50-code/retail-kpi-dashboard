@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Power BI temp/cache (keep the .pbix, ignore temp files)
+*.pbix.tmp
+~$*
+
+# Notes
+scratch/
